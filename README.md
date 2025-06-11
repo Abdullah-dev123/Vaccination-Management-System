@@ -33,4 +33,4 @@ This is a fully working web-based Vaccination Management System developed using 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Vaccination-Management-System.git
+   git clone https://github.com/Abdullah-dev123/Vaccination-Management-System.git
